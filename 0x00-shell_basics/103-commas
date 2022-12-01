@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamvR1 
+ls -pavx 
