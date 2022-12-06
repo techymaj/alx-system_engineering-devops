@@ -26,4 +26,5 @@ Requirements
 * Output format: One line, one word        
 * Words should be sorted       
 
+[14. It must be in that file]() Display lines containing the pattern “root” from the file /etc/passwd       
 
