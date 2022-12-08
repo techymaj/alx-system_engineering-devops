@@ -40,4 +40,5 @@ Requirements
 * Based on the the /etc/passwd file        
 
 [23. Empty casks make the most noise] () Write a command that finds all empty files and directories in the current directory and all sub-directories.        
+[24. A gif is worth ten thousand words]() Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.      
 
